@@ -16,6 +16,7 @@ All of the solution-manuals provided by teaching assistants are also included fo
 
 |  HW   | Score (%) |  MP   | Score (%) |
 | :---: | :-------: | :---: | :-------: |
-|  00   |    115    |   -   |     -     |
+|  00   |    NA     |   -   |     -     |
 |  01   |    115    |  01   |    100    |
-|  02   |    115    |  01   |    100    |
+|  02   |   71.25   |  02   |    NA     |
+|  03   |   103.5   |  03   |    NA     |
