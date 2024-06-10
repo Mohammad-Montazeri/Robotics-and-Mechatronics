@@ -1,0 +1,14 @@
+<launch>
+    <!-- Define an argument to select the type of control -->
+    <arg name="character" default="1" />
+
+    <!-- Startup the base nodes -->
+    <node name="turtlesim" pkg="turtlesim" type="turtlesim_node" output="screen" />
+    <node pkg="rosservice" type="rosservice" name="clear" args="call /clear" />
+
+    <!-- Startup the main script with the argument client specidies -->
+    <node name="drawer" pkg="my_pkg" type="drawer.py" output="screen">
+        <param name="character" value="$(arg character)" />
+        <param name="use_sim_time" value="true"/>
+    </node>
+</launch>
