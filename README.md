@@ -2,13 +2,13 @@
 
 This repository contains the assignments of Robotics-and-Mechatronics course delivered by Dr. Tale Masoule in 1403-spring semester. This includes homeworks and projects on different topics of Robotics, ROS and AI in robotics.
 
-# Programming Languages
+# Languages
 
 In tese series of assignments, different languages are used, such as C++, Python, Matlab, Arduino and Linux Bash scripts.
 
 # Format
 
-All of the assignments have a report document containing the solution to problems. Almost all of these reports are provided in IEEE conference template and written with LaTeX. The source*.tex* files and utilized *IEEEtran.cls* class are also included for each assignment alongside its final *report.pdf*representation.
+All of the assignments have a report document containing the solution to problems. Almost all of these reports are provided in IEEE conference template and written with LaTeX. The source *.tex* files and utilized *IEEEtran.cls* class are also included for each assignment alongside its final *report.pdf* representation.
 
 # Scores
 
@@ -22,4 +22,4 @@ All of the solution-manuals provided by teaching assistants are also included fo
 |  03   |   103.5   |  03   |    NA     |
 
 # Contact
-Feel free to contact me using my [email](mohammadmontazeri313@gmail.com) or Telegram [ID](https://t.me/MohammadSaeed) if there is any question, problem, or regard on this matter.
+Feel free to contact me using my Linkedin [profile](https://www.linkedin.com/in/mohammad-montazeri-90ba55249),ٍ Email [address](mailto:mohammadmontazeri313@gmail.com) or Telegram [ID](https://t.me/MohammadSaeed) if there is any question, problem, or regard on the matter of this course and the provided contents.
