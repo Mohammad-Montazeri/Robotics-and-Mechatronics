@@ -1,0 +1,5 @@
+Link to the Jupyter Notebook in Google Coalb:
+https://colab.research.google.com/drive/16sUiCt3UGlYBB5FVbzD94im9OwCqFr4-?usp=sharing
+
+Link to the raw Dataset:
+https://drive.google.com/drive/folders/1sYP6G84bpEfkWJlpeoV8XfdaZNtY1R87?usp=sharing
